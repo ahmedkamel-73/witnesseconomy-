@@ -1,0 +1,12 @@
+{
+  "name": "اقتصاد الشهود",
+  "short_name": "Witness",
+  "description": "اقتصاد الشهود - منصة الشهادة والرزق الحلال",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07070a",
+  "theme_color": "#D4A017",
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
